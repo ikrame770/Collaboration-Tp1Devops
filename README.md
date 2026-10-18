@@ -1,1 +1,2 @@
-# Bienvenue dans le projet de l'etudiant B.
+# Bienvenue dans le projet de l'etudiant B \& l'etudiant A.
+
